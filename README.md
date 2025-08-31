@@ -49,8 +49,5 @@ az deployment group create --resource-group MyResourceGroup --template-file azur
 
 Contributions, issues, and feature requests are welcome. Feel free to open a pull request.
 
-## License
-
-[MIT License](LICENSE)
-
----
+Follow me on LinkedIn for more Cloud Projects:
+https://www.linkedin.com/in/mohammedfarhan1/
